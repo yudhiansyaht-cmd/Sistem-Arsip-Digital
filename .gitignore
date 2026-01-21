@@ -1,0 +1,34 @@
+# Sistem & OS
+.DS_Store
+Thumbs.db
+
+# Environment & config sensitif
+.env
+*.env
+
+# Log file
+*.log
+
+# Cache & temporary
+cache/
+tmp/
+
+# Dependency folder (jika ada)
+vendor/
+node_modules/
+
+# File upload (opsional jika tidak ingin upload data)
+uploads/
+files/
+
+# Database backup
+*.sql
+
+# Archive
+*.zip
+*.rar
+*.7z
+
+# IDE / Editor
+.vscode/
+.idea/
