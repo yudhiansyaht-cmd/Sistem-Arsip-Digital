@@ -48,4 +48,4 @@ Extract assets.rar → menjadi folder assets
 
 Extract library.rar → menjadi folder library
 
-PROJEK INI DI BUAT UNTUK TUGAS KULIAH 
+PROJEK INI DI BUAT UNTUK TUGAS KULIAH :)
